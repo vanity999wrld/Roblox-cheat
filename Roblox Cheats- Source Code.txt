@@ -19,7 +19,7 @@ getgenv().AutoPrediction = false
  
     --variables                 
     local Tracer = Instance.new("Part", game.Workspace)
-    Tracer.Name = "gay"
+    Tracer.Name = "rainbow"
     Tracer.Anchored = true
     Tracer.CanCollide = false
     Tracer.Transparency = 0.8
@@ -88,6 +88,6 @@ end)
     end
     elseif not Locking then
          if getgenv().ChatMode then
-        local A_1 = "Unlocked!" local A_2 = "All" local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest Event:FireServer(A_1, A_2) 
+        local A_1 = "Unlocked Nigger!!" local A_2 = "All" local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest Event:FireServer(A_1, A_2) 
         end
 ... (109 lines left)
